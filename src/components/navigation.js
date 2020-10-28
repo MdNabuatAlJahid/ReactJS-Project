@@ -52,7 +52,7 @@ const Border = styled.div`
 
 const Styles = {
   active: {
-    color: 'blue',
+    color: 'green',
   },
 }
 
